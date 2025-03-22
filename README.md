@@ -1,7 +1,5 @@
 # **Rust Multi-threaded Port Scanner**
 
-# Rust Port Scanner
-
 This is a simple **port scanner** written in Rust that scans an IP address to check for open ports. It supports multi-threading for faster scanning.
 
 ## Features
