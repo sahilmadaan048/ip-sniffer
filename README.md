@@ -15,8 +15,8 @@ Ensure you have **Rust** and **Cargo** installed.
 
 Clone the repository:
 ```sh
-git clone <repo-url>
-cd <repo-folder>
+git clone git@github.com:sahilmadaan048/ip-sniffer.git
+cd ip-sniffer
 ```
 
 Build the project:
