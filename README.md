@@ -57,15 +57,6 @@ Scanning 192.168.1.1...
 ![alt text](image.png)
 
 
-
-## Future Improvements
-- Add timeout options for scanning.
-- Support scanning a range of IP addresses.
-- Improve error handling and logging.
-
-
-
-
 ## **📌 Project Overview**  
 This is a **multi-threaded port scanner** written in **Rust**. It efficiently scans a target **IP address** for open ports, leveraging concurrency to speed up the process. The scanner supports:
 
@@ -143,9 +134,4 @@ The program can be executed using different options:
 🔹 Improve **reporting/logging** with timestamps and summaries  
 
 ---
-
-## **📌 Conclusion**
-This Rust-based **port scanner** is a powerful yet simple tool for **network scanning**. It demonstrates **multi-threading, efficient TCP connection handling, and CLI argument parsing** in Rust.
-
-💡 **Perfect for cybersecurity enthusiasts, Rust learners, and networking professionals!** 🚀
 
